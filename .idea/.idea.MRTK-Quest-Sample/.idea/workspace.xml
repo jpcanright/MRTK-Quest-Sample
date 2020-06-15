@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0474fb8-2378-4e5f-9402-f1925ab020e8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MRTK/Examples/Demos/HandTracking/Scripts/GestureTester.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="10" column="75" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="75" />
+              <folding>
+                <marker date="1591744096352" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1591744096352" expanded="false" signature="160:229" ph="..." />
+                <marker date="1591744096352" expanded="true" signature="280:7177" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="429:7175" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="1057:1102" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="1166:2056" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="1403:1507" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="1559:1717" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="1769:1962" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="2120:2474" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="2357:2464" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="2547:3238" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="2790:2962" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="3014:3228" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="3304:3815" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="3543:3652" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="3693:3805" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="3890:4560" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="4135:4304" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="4356:4550" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="4625:5358" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="4863:4971" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="5023:5147" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="5199:5348" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="5448:5905" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="5485:5895" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="5618:5704" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="5806:5881" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6013:6204" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6104:6194" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6254:6812" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6449:6548" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6576:6675" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6703:6802" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6846:7169" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6884:6957" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="6985:7058" ph="{...}" />
+                <marker date="1591744096352" expanded="true" signature="7086:7159" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Input/DeviceManager/Controllers/OculusQuestHand.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4000">
+              <caret line="516" selection-start-line="516" selection-end-line="516" />
+              <folding>
+                <marker date="1591744095297" expanded="true" signature="0:1424" ph="/* ------------------------------------------------------------------------------ - ... */" />
+                <marker date="1591744095297" expanded="false" signature="1432:1773" ph="..." />
+                <marker date="1591744095297" expanded="true" signature="1831:22883" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="2011:22881" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="2112:2275" ph="/// Teleport pointer reference. Needs custom pointer because MRTK does not support teleporting with articulated h ... " />
+                <marker date="1591744095297" expanded="true" signature="2352:2422" ph="/// Pose used by hand ray ... " />
+                <marker date="1591744095297" expanded="true" signature="3152:3452" ph="/// Default constructor used by reflection for profiles ... " />
+                <marker date="1591744095297" expanded="true" signature="3727:3925" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="4001:4128" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="4194:4542" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="4344:4418" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="4577:4709" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="4625:4699" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="4805:5705" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="6019:6098" ph="{...}" />
+                <marker date="1591744095297" expanded="false" signature="6108:6400" ph="IMixedRealityHand Implementation" />
+                <marker date="1591744095297" expanded="true" signature="6267:6347" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="6447:6998" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="6473:6988" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="7057:7183" ph="/* Pinch was also used as grab, we want to allow hand-curl grab not just pinch. ... */" />
+                <marker date="1591744095297" expanded="true" signature="7241:7461" ph="/// Update the controller data from the provided platform state ... " />
+                <marker date="1591744095297" expanded="true" signature="7563:11423" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="7638:7690" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="7850:8580" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="8740:11413" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="8805:11399" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="9004:9229" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="9435:9657" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="9854:10419" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="9938:10150" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="10183:10393" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="10636:11201" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="10720:10932" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="10965:11175" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="11522:12931" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="11813:12261" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="11963:12163" ph="{...}" />
+                <marker date="1591744095297" expanded="false" signature="12941:22875" ph="HandJoints" />
+                <marker date="1591744095297" expanded="true" signature="13236:14690" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="14824:18614" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="14957:15046" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="15120:15736" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="15238:15313" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="15334:15722" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="15617:15704" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="15794:15924" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="15941:16072" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="16154:16232" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="16270:16494" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="16375:16449" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="16618:16901" ph="/* Note: After some testing, it seems when moving your hand fast, Oculus's pinch estimation data gets frozen, whi ... */" />
+                <marker date="1591744095297" expanded="true" signature="16978:17078" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="17095:17828" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="17231:17448" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="17469:17814" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="18011:18141" ph="/* Pinch was also used as grab, we want to allow hand-curl grab not just pinch. ... */" />
+                <marker date="1591744095297" expanded="true" signature="18168:18262" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="18363:18574" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="18409:18487" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="18624:18808" ph="/* 4 cm is the treshold for fingers being far apart. ... */" />
+                <marker date="1591744095297" expanded="true" signature="18927:19387" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="19436:20545" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="19598:20535" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="19891:20191" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="20212:20442" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="20251:20357" ph="/* Right Up direction is correct ... */" />
+                <marker date="1591744095297" expanded="true" signature="20582:21246" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="20831:21236" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="21349:22113" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="21507:21811" ph="/* if (joint == TrackedHandJoint.IndexTip) ... */" />
+                <marker date="1591744095297" expanded="true" signature="21943:22016" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="22033:22103" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="22208:22855" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="22299:22445" ph="{...}" />
+                <marker date="1591744095297" expanded="true" signature="22597:22845" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Input/DeviceManager/OculusQuestInputManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4768">
+              <caret line="424" selection-start-line="424" selection-end-line="424" />
+              <folding>
+                <marker date="1591744095298" expanded="true" signature="0:1424" ph="/* ------------------------------------------------------------------------------ - ... */" />
+                <marker date="1591744095298" expanded="false" signature="1432:1723" ph="..." />
+                <marker date="1591744095298" expanded="true" signature="1781:18446" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="1788:1861" ph="/// Manages Oculus Quest Hand Inputs ... " />
+                <marker date="1591744095298" expanded="true" signature="2119:18444" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="3134:3752" ph="/// Constructor. ... " />
+                <marker date="1591744095298" expanded="true" signature="4016:4036" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="4075:4274" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="4309:7488" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="4423:5462" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="4827:5368" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="5479:5628" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="5916:6016" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="6108:6304" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="6425:7478" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="6835:6901" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="6939:7464" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="7544:7640" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="7680:7886" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="7960:8379" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="8017:8124" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="8182:8295" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="8478:8573" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="8612:8938" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="8701:8806" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="8823:8928" ph="{...}" />
+                <marker date="1591744095298" expanded="false" signature="8948:13172" ph="Controller Management" />
+                <marker date="1591744095298" expanded="true" signature="9020:9191" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="9287:9702" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="9410:9595" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="9612:9692" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="9783:11628" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="9853:9936" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="10407:10634" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="10808:10912" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="10974:11442" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="11086:11325" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="11696:11894" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="11804:11884" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="11945:12355" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="12225:12305" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="12434:13153" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="12766:13090" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="12817:12931" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="12952:13025" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="13182:18438" ph="Hand Management" />
+                <marker date="1591744095298" expanded="true" signature="13242:13431" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="13564:14229" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="13587:13792" ph="/* Until the ovrMeshRenderer is initialized we do nothing with the hand ... */" />
+                <marker date="1591744095298" expanded="true" signature="13911:14128" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="14145:14219" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="14271:15018" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="14335:14450" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="14509:14624" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="14691:14814" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="14885:15008" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="15103:16947" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="15167:15244" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="15735:15967" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="16101:16213" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="16275:16751" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="16387:16626" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17009:17177" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17099:17167" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17222:17590" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17478:17546" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17651:18419" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17808:18120" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17859:17967" ph="{...}" />
+                <marker date="1591744095298" expanded="true" signature="17988:18061" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Debug/HandJointFollow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <marker date="1591744095292" expanded="true" signature="0:1424" ph="/* ------------------------------------------------------------------------------ - ... */" />
+                <marker date="1591744095292" expanded="false" signature="1432:1574" ph="..." />
+                <marker date="1591744095292" expanded="true" signature="1621:2924" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="1673:2921" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="1892:2323" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="2086:2180" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="2378:2531" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="2439:2521" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="2616:2915" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="2722:2880" ph="{...}" />
+                <marker date="1591744095292" expanded="true" signature="2800:2866" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Jared/SnapDetector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+              <folding>
+                <marker date="1591926029266" expanded="false" signature="6:208" ph="..." />
+                <marker date="1591926029266" expanded="true" signature="251:8931" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="1028:1890" ph="/* Here's how I think the state progression is going to work. ... */" />
+                <marker date="1591926029266" expanded="true" signature="1921:2042" ph="{...}" />
+                <marker date="1591926029266" expanded="false" signature="2207:5903" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="2598:2706" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="2746:3517" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="2993:3089" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="3204:3344" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="3559:4346" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="3732:3901" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="4084:4298" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="4431:4538" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="4643:5897" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="4919:5088" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="5425:5849" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="5932:6158" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="6181:8294" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="6417:6547" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="6683:6750" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="6759:6913" ph="/* SetChildrenActive(true); ... */" />
+                <marker date="1591926029266" expanded="true" signature="7125:7390" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="7240:7380" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="7437:7996" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="7587:7728" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="7845:7986" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8042:8288" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8162:8278" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8332:8409" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8460:8589" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8513:8583" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8670:8929" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8768:8902" ph="{...}" />
+                <marker date="1591926029266" expanded="true" signature="8838:8892" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/MRTK/Core/Definitions/Utilities/TrackedHandJoint.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <marker date="1591744095434" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+                <marker date="1591744095434" expanded="true" signature="204:3511" ph="{...}" />
+                <marker date="1591744095434" expanded="true" signature="211:453" ph="/// The supported tracked hand joints. ... " />
+                <marker date="1591744095434" expanded="true" signature="486:3509" ph="{...}" />
+                <marker date="1591744095434" expanded="true" signature="519:578" ph="/// The wrist. ... " />
+                <marker date="1591744095434" expanded="true" signature="602:660" ph="/// The palm. ... " />
+                <marker date="1591744095434" expanded="true" signature="683:782" ph="/// The lowest joint in the thumb (down in your palm). ... " />
+                <marker date="1591744095434" expanded="true" signature="821:908" ph="/// The thumb's second (middle-ish) joint. ... " />
+                <marker date="1591744095434" expanded="true" signature="945:1029" ph="/// The thumb's first (furthest) joint. ... " />
+                <marker date="1591744095434" expanded="true" signature="1064:1134" ph="/// The tip of the thumb. ... " />
+                <marker date="1591744095434" expanded="true" signature="1161:1247" ph="/// The lowest joint of the index finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="1281:1368" ph="/// The knuckle joint of the index finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="1399:1485" ph="/// The middle joint of the index finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="1520:1615" ph="/// The joint nearest the tip of the index finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="1650:1727" ph="/// The tip of the index finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="1754:1841" ph="/// The lowest joint of the middle finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="1876:1965" ph="/// The knuckle joint of the middle finger.  ... " />
+                <marker date="1591744095434" expanded="true" signature="1997:2084" ph="/// The middle joint of the middle finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2120:2209" ph="/// The joint nearest the tip of the finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2245:2323" ph="/// The tip of the middle finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2351:2436" ph="/// The lowest joint of the ring finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2469:2549" ph="/// The knuckle of the ring finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2579:2664" ph="/// The middle joint of the ring finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2698:2792" ph="/// The joint nearest the tip of the ring finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2826:2902" ph="/// The tip of the ring finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="2928:3014" ph="/// The lowest joint of the pinky finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="3048:3135" ph="/// The knuckle joint of the pinky finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="3166:3252" ph="/// The middle joint of the pinky finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="3287:3381" ph="/// The joint nearest the tip of the pink finger. ... " />
+                <marker date="1591744095434" expanded="true" signature="3416:3486" ph="/// The tip of the pinky. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Input/DeviceManager/Controllers/OculusQuestHand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Jared/SnapDetector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK/Core/Definitions/Utilities/TrackedHandJoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Input/DeviceManager/OculusQuestInputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK/Examples/Demos/HandTracking/Scripts/GestureTester.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Debug/HandJointFollow.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Jared/SnapDetector.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="riderModule/invalid/Default Android Facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2027" />
+    <option name="y" value="-8" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0474fb8-2378-4e5f-9402-f1925ab020e8" name="Default Changelist" comment="" />
+      <created>1591750352943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591750352943</updated>
+      <workItem from="1591750357999" duration="203000" />
+      <workItem from="1591751271742" duration="3380000" />
+      <workItem from="1591923009911" duration="2993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6576000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1098081" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Unity" order="17" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/MRTK/Examples/Demos/HandTracking/Scripts/GestureTester.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="75" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="75" />
+          <folding>
+            <marker date="1591744096352" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1591744096352" expanded="false" signature="160:229" ph="..." />
+            <marker date="1591744096352" expanded="true" signature="280:7177" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="429:7175" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="1057:1102" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="1166:2056" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="1403:1507" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="1559:1717" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="1769:1962" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="2120:2474" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="2357:2464" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="2547:3238" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="2790:2962" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="3014:3228" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="3304:3815" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="3543:3652" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="3693:3805" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="3890:4560" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="4135:4304" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="4356:4550" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="4625:5358" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="4863:4971" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="5023:5147" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="5199:5348" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="5448:5905" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="5485:5895" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="5618:5704" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="5806:5881" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6013:6204" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6104:6194" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6254:6812" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6449:6548" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6576:6675" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6703:6802" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6846:7169" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6884:6957" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="6985:7058" ph="{...}" />
+            <marker date="1591744096352" expanded="true" signature="7086:7159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Input/DeviceManager/Controllers/OculusQuestHand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4000">
+          <caret line="516" selection-start-line="516" selection-end-line="516" />
+          <folding>
+            <marker date="1591744095297" expanded="true" signature="0:1424" ph="/* ------------------------------------------------------------------------------ - ... */" />
+            <marker date="1591744095297" expanded="false" signature="1432:1773" ph="..." />
+            <marker date="1591744095297" expanded="true" signature="1831:22883" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="2011:22881" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="2112:2275" ph="/// Teleport pointer reference. Needs custom pointer because MRTK does not support teleporting with articulated h ... " />
+            <marker date="1591744095297" expanded="true" signature="2352:2422" ph="/// Pose used by hand ray ... " />
+            <marker date="1591744095297" expanded="true" signature="3152:3452" ph="/// Default constructor used by reflection for profiles ... " />
+            <marker date="1591744095297" expanded="true" signature="3727:3925" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="4001:4128" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="4194:4542" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="4344:4418" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="4577:4709" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="4625:4699" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="4805:5705" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="6019:6098" ph="{...}" />
+            <marker date="1591744095297" expanded="false" signature="6108:6400" ph="IMixedRealityHand Implementation" />
+            <marker date="1591744095297" expanded="true" signature="6267:6347" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="6447:6998" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="6473:6988" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="7057:7183" ph="/* Pinch was also used as grab, we want to allow hand-curl grab not just pinch. ... */" />
+            <marker date="1591744095297" expanded="true" signature="7241:7461" ph="/// Update the controller data from the provided platform state ... " />
+            <marker date="1591744095297" expanded="true" signature="7563:11423" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="7638:7690" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="7850:8580" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="8740:11413" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="8805:11399" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="9004:9229" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="9435:9657" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="9854:10419" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="9938:10150" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="10183:10393" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="10636:11201" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="10720:10932" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="10965:11175" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="11522:12931" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="11813:12261" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="11963:12163" ph="{...}" />
+            <marker date="1591744095297" expanded="false" signature="12941:22875" ph="HandJoints" />
+            <marker date="1591744095297" expanded="true" signature="13236:14690" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="14824:18614" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="14957:15046" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="15120:15736" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="15238:15313" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="15334:15722" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="15617:15704" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="15794:15924" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="15941:16072" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="16154:16232" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="16270:16494" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="16375:16449" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="16618:16901" ph="/* Note: After some testing, it seems when moving your hand fast, Oculus's pinch estimation data gets frozen, whi ... */" />
+            <marker date="1591744095297" expanded="true" signature="16978:17078" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="17095:17828" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="17231:17448" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="17469:17814" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="18011:18141" ph="/* Pinch was also used as grab, we want to allow hand-curl grab not just pinch. ... */" />
+            <marker date="1591744095297" expanded="true" signature="18168:18262" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="18363:18574" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="18409:18487" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="18624:18808" ph="/* 4 cm is the treshold for fingers being far apart. ... */" />
+            <marker date="1591744095297" expanded="true" signature="18927:19387" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="19436:20545" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="19598:20535" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="19891:20191" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="20212:20442" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="20251:20357" ph="/* Right Up direction is correct ... */" />
+            <marker date="1591744095297" expanded="true" signature="20582:21246" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="20831:21236" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="21349:22113" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="21507:21811" ph="/* if (joint == TrackedHandJoint.IndexTip) ... */" />
+            <marker date="1591744095297" expanded="true" signature="21943:22016" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="22033:22103" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="22208:22855" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="22299:22445" ph="{...}" />
+            <marker date="1591744095297" expanded="true" signature="22597:22845" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Input/DeviceManager/OculusQuestInputManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4768">
+          <caret line="424" selection-start-line="424" selection-end-line="424" />
+          <folding>
+            <marker date="1591744095298" expanded="true" signature="0:1424" ph="/* ------------------------------------------------------------------------------ - ... */" />
+            <marker date="1591744095298" expanded="false" signature="1432:1723" ph="..." />
+            <marker date="1591744095298" expanded="true" signature="1781:18446" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="1788:1861" ph="/// Manages Oculus Quest Hand Inputs ... " />
+            <marker date="1591744095298" expanded="true" signature="2119:18444" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="3134:3752" ph="/// Constructor. ... " />
+            <marker date="1591744095298" expanded="true" signature="4016:4036" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="4075:4274" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="4309:7488" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="4423:5462" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="4827:5368" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="5479:5628" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="5916:6016" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="6108:6304" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="6425:7478" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="6835:6901" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="6939:7464" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="7544:7640" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="7680:7886" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="7960:8379" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="8017:8124" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="8182:8295" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="8478:8573" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="8612:8938" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="8701:8806" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="8823:8928" ph="{...}" />
+            <marker date="1591744095298" expanded="false" signature="8948:13172" ph="Controller Management" />
+            <marker date="1591744095298" expanded="true" signature="9020:9191" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="9287:9702" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="9410:9595" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="9612:9692" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="9783:11628" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="9853:9936" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="10407:10634" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="10808:10912" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="10974:11442" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="11086:11325" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="11696:11894" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="11804:11884" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="11945:12355" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="12225:12305" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="12434:13153" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="12766:13090" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="12817:12931" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="12952:13025" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="13182:18438" ph="Hand Management" />
+            <marker date="1591744095298" expanded="true" signature="13242:13431" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="13564:14229" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="13587:13792" ph="/* Until the ovrMeshRenderer is initialized we do nothing with the hand ... */" />
+            <marker date="1591744095298" expanded="true" signature="13911:14128" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="14145:14219" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="14271:15018" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="14335:14450" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="14509:14624" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="14691:14814" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="14885:15008" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="15103:16947" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="15167:15244" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="15735:15967" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="16101:16213" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="16275:16751" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="16387:16626" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17009:17177" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17099:17167" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17222:17590" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17478:17546" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17651:18419" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17808:18120" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17859:17967" ph="{...}" />
+            <marker date="1591744095298" expanded="true" signature="17988:18061" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MRTK.ThirdParty/MRTK-Quest/Scripts/Debug/HandJointFollow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <marker date="1591744095292" expanded="true" signature="0:1424" ph="/* ------------------------------------------------------------------------------ - ... */" />
+            <marker date="1591744095292" expanded="false" signature="1432:1574" ph="..." />
+            <marker date="1591744095292" expanded="true" signature="1621:2924" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="1673:2921" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="1892:2323" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="2086:2180" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="2378:2531" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="2439:2521" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="2616:2915" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="2722:2880" ph="{...}" />
+            <marker date="1591744095292" expanded="true" signature="2800:2866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MRTK/Core/Definitions/Utilities/TrackedHandJoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <marker date="1591744095434" expanded="true" signature="0:152" ph="/* Copyright (c) Microsoft Corporation. All rights reserved. ... */" />
+            <marker date="1591744095434" expanded="true" signature="204:3511" ph="{...}" />
+            <marker date="1591744095434" expanded="true" signature="211:453" ph="/// The supported tracked hand joints. ... " />
+            <marker date="1591744095434" expanded="true" signature="486:3509" ph="{...}" />
+            <marker date="1591744095434" expanded="true" signature="519:578" ph="/// The wrist. ... " />
+            <marker date="1591744095434" expanded="true" signature="602:660" ph="/// The palm. ... " />
+            <marker date="1591744095434" expanded="true" signature="683:782" ph="/// The lowest joint in the thumb (down in your palm). ... " />
+            <marker date="1591744095434" expanded="true" signature="821:908" ph="/// The thumb's second (middle-ish) joint. ... " />
+            <marker date="1591744095434" expanded="true" signature="945:1029" ph="/// The thumb's first (furthest) joint. ... " />
+            <marker date="1591744095434" expanded="true" signature="1064:1134" ph="/// The tip of the thumb. ... " />
+            <marker date="1591744095434" expanded="true" signature="1161:1247" ph="/// The lowest joint of the index finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="1281:1368" ph="/// The knuckle joint of the index finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="1399:1485" ph="/// The middle joint of the index finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="1520:1615" ph="/// The joint nearest the tip of the index finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="1650:1727" ph="/// The tip of the index finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="1754:1841" ph="/// The lowest joint of the middle finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="1876:1965" ph="/// The knuckle joint of the middle finger.  ... " />
+            <marker date="1591744095434" expanded="true" signature="1997:2084" ph="/// The middle joint of the middle finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2120:2209" ph="/// The joint nearest the tip of the finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2245:2323" ph="/// The tip of the middle finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2351:2436" ph="/// The lowest joint of the ring finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2469:2549" ph="/// The knuckle of the ring finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2579:2664" ph="/// The middle joint of the ring finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2698:2792" ph="/// The joint nearest the tip of the ring finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2826:2902" ph="/// The tip of the ring finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="2928:3014" ph="/// The lowest joint of the pinky finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="3048:3135" ph="/// The knuckle joint of the pinky finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="3166:3252" ph="/// The middle joint of the pinky finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="3287:3381" ph="/// The joint nearest the tip of the pink finger. ... " />
+            <marker date="1591744095434" expanded="true" signature="3416:3486" ph="/// The tip of the pinky. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Jared/SnapDetector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <marker date="1591926029266" expanded="false" signature="6:208" ph="..." />
+            <marker date="1591926029266" expanded="true" signature="251:8931" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="1028:1890" ph="/* Here's how I think the state progression is going to work. ... */" />
+            <marker date="1591926029266" expanded="true" signature="1921:2042" ph="{...}" />
+            <marker date="1591926029266" expanded="false" signature="2207:5903" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="2598:2706" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="2746:3517" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="2993:3089" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="3204:3344" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="3559:4346" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="3732:3901" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="4084:4298" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="4431:4538" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="4643:5897" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="4919:5088" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="5425:5849" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="5932:6158" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="6181:8294" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="6417:6547" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="6683:6750" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="6759:6913" ph="/* SetChildrenActive(true); ... */" />
+            <marker date="1591926029266" expanded="true" signature="7125:7390" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="7240:7380" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="7437:7996" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="7587:7728" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="7845:7986" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8042:8288" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8162:8278" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8332:8409" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8460:8589" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8513:8583" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8670:8929" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8768:8902" ph="{...}" />
+            <marker date="1591926029266" expanded="true" signature="8838:8892" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
